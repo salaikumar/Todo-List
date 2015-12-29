@@ -1,6 +1,6 @@
 # Todo-List
-Repo to serve as Todo List for me
-Basically I'm bored with the list of To do lists our there. So, I',m going to use this README as my to do.
+Repo to serve as Todo List for me.
+Basically I'm bored with the list of To do apps out there. So, I',m going to use this README as my TODO.
 
 Current Work. 
 1. TicTacToe - Exposing it as a Web service Pending.
