@@ -6,4 +6,4 @@ Current Work.
 1. TicTacToe - Exposing it as a Web service Pending.
 2. HTML Parser - Choose a Language and get it done. - Next to do 
 3. CSV Parser  
-Dead Line - End of January 2016. Try to create Production Ready 
+Dead Line - End of January 2016. Try to create Production Ready Applcations for Small Scale Use
