@@ -7,6 +7,8 @@ Current Work.
  - [ ] TicTacToe   - Exposing it as a Web service Pending
  - [ ] HTML Parser - Not yet Started
  - [ ] CSV Parser  - Not yet Started
+ - [ ] Code Kata Challenges - Not yet Started
+ - [ ] Where used list      - Not yet Started 
 
 <b>Comments</b>
 
