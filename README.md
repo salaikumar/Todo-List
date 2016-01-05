@@ -4,7 +4,7 @@ Basically I'm bored with the list of To do apps out there. So, I',m going to use
 
 Current Work. 
  - [ ] sPlayer     - Work in Progress
- - [ ] TicTacToe   - Exposing it as a Web service Pending
+ - [ ] TicTacToe   - Exposing it as a Web service Pending - Play/Dropwizard should do
  - [ ] HTML Parser - Not yet Started
  - [ ] CSV Parser  - Not yet Started
  - [ ] Code Kata Challenges - Not yet Started
