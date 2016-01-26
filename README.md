@@ -15,8 +15,8 @@ Target : Solve at least 50-100 Interview problems. (Algorithms + Design)
 ##Small Projects
 ###Current Work.
  - [X] TicTacToe            - Completed - <https://github.com/salaikumar/TicTacToe_WebApp>
- - [-] Where used list      - Started Working. 
- - [-] CSV Parser           - Started Working
+ - [ ] Where used list      - Started Working. 
+ - [ ] CSV Parser           - Started Working
  - [ ] sPlayer              - Priority shifted. - Interested to work on Where used list
  - [ ] HTML Parser          - Not yet Started
  - [ ] Code Kata Challenges - Moved to Later point.
@@ -25,7 +25,7 @@ Target : Solve at least 50-100 Interview problems. (Algorithms + Design)
 <b>Comments</b>
 
 Expose these as Web Service as well. 
-Plan to Reach by March End
+Plan to reach by April End
 
 Tech Stack - Planning to Expertise
 - [ ] Distributed App , Problem Solving Algo - JAVA/SCALA                 - In Progress
