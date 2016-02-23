@@ -15,10 +15,14 @@ Target : Solve at least 50-100 Interview problems. (Algorithms + Design)
 ##Small Projects
 ###Current Work.
  - [X] TicTacToe            - Completed - <https://github.com/salaikumar/TicTacToe_WebApp>
- - [ ] Where used list      - Started Working. 
- - [ ] CSV Parser           - Started Working
+ - [ ] Where used list      - Started Working - Struck at Using Eclipse CDT to parse C-Code. 
+                              Not able understand it's  API clearly and extract information from AST.
+ - [ ] CSV Parser           - Started Working - Not much interested to work on this anymore
+                              Good learning though. :). Need a little more motivation to complete this
  - [ ] sPlayer              - Priority shifted. - Interested to work on Where used list
+                              Need to have a look at it again. 
  - [ ] HTML Parser          - Not yet Started
+                              Shall I Start this one? Or move towards finding freelance works?
  - [ ] Code Kata Challenges - Moved to Later point.
  
 
