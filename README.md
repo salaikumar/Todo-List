@@ -15,8 +15,7 @@
                               Scaling is Pending - Working
  
 
-<b>Comments</b>
-My WishList for variety of applications.
+##Apps Wishlist
 - [ ] Distributed Systems using Java/Scala and Apache OS projects
 - [ ] Web Applications using Ruby/Python
 - [ ] Cross Platform Applications using Node.js and Ionic. 
